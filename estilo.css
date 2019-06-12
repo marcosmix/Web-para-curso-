@@ -1,0 +1,38 @@
+
+#principal{ background-color: #5AD6F4;
+
+			}
+
+
+#naveg {
+			display: inline;
+			background-color: #155D5D;
+			padding: 1%;
+			color: white;
+			border: 2px solid #72F3F3; 
+			border-radius: 9px;
+
+
+		}
+
+a:link {text-decoration: none; 
+		color: #FFFFFF;
+		}
+
+#contenedor_navegacion{background-color: #155D5D 
+
+						}
+		
+body{
+	   background-color: #49494E    ;
+    }
+
+#titulo_principal{
+						font-size: 200%;
+						font-style: normal;
+						border-radius: 10px;
+
+					}
+#parrafos{
+			color: #FFFDFF  ;
+}
